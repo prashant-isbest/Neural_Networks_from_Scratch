@@ -15,6 +15,6 @@ Creating a Neural Network step by step without using any ML / DL library
     - Stack [LINEAR->RELU] backward L-1 times and add [LINEAR->SIGMOID] backward in a new L_model_backward function
 - Finally update the parameters.
 
-<img src="images/final outline.png" style="width:800px;height:500px;">
+<img src="images/finaloutline.png" style="width:800px;height:500px;">
 
  
